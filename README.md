@@ -1,5 +1,5 @@
 <center>
-<h1>✨ Récupérateur de Membres de Serveur Discord ✨</h1>
+<h1>✨ Récupérateur de Membres et backup de Serveur Discord ✨</h1>
 </center>
 <p align='center'>
 <b>Réseaux sociaux</b><br>  
