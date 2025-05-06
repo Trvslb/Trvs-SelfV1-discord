@@ -59,7 +59,7 @@
   - ### Lancement
     
      ```
-      >> node .
+      >> node index token-du-self !!IMPORTANT!!
      ```
 <center>
 
